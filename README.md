@@ -29,5 +29,5 @@ This C program is an 8-bit arcade game that includes two classic games: Tic-Tac-
 
 1. **Clone the repository** (if applicable):
    ```sh
-   git clone https://github.com/Ohmmykung09/Donut.git
-   cd Donut
+   git clone https://github.com/Ohmmykung09/8-bitArcadeGame.git
+   cd 8-bitArcadeGame
